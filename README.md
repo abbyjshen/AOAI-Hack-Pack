@@ -1,6 +1,8 @@
 # AOAI-Hack-Pack
+Reference this page at: [aka.ms/AOAI-Hack-Pack](https://aka.ms/AOAI-Hack-Pack)
+
 ## Know what you're building? 
-Go straight to the Resource Packs
+Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
 
 ## Not sure where to start?
 Check out https://aka.ms/ai-hackathon-starter-kit
