@@ -3,7 +3,8 @@ Reference this page at: [aka.ms/AOAI-Hack-build-copilot](https://aka.ms/AOAI-Hac
 
 ## Considerations
 ### What is a Copilot
-How much of the Copilot stack are you intending to cover in your own Copilot
+How much of the Copilot stack are you intending to cover in your own Copilot?
+
 [The era of the AI Copilot | KEY02H - YouTube](https://www.youtube.com/watch?v=FyY0fEO5jVY)
 
 ### Technical prerequisites
@@ -17,7 +18,9 @@ Do you have
   - Automation framework (e.g. Microsoft's VBA (Visual Basic for Applications) is a programming language for automating tasks in Office applications)
   - You expose the actions in your app as a plugin, built on OpenAI's plugins specification. It can be invoked in your own copilot using Semantic Kernel SDK, but is in the format to also be invoked by ChatGPT, Bing Chat, M365 copilot, and others. It might make sense to test functionality within M365 or other existing Copilots first [https://aka.ms/AOAI-Hack-build-plugin](https://aka.ms/AOAI-Hack-build-plugin)
 
-- Safety and guardrails when acting on users' behalf?
+- UX and how to expose what your Copilot does/doesn't do? Is it invoked via a chatbot?
+
+- Safety and guardrails when acting on users' behalf? What if the detected intent based on user prompt is unclear or incorrect or unsupported?
 
 
 ## Learning Resources
