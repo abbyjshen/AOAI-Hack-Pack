@@ -7,18 +7,19 @@ How much of the Copilot stack are you intending to cover in your own Copilot?
 
 [The era of the AI Copilot | KEY02H - YouTube](https://www.youtube.com/watch?v=FyY0fEO5jVY)
 
-### Technical prerequisites
+### Considerations
 AI-enabled app continuum
 1. Reason over existing data
 2.  Automate actions
 3.  Act on users' behalf <-- Copilot
 
-Do you have
+Have you thought about:
+
 - APIs to access functionality in your app in order to act on users' behalf?
   - Automation framework (e.g. Microsoft's VBA (Visual Basic for Applications) is a programming language for automating tasks in Office applications)
   - You expose the actions in your app as a plugin, built on OpenAI's plugins specification. It can be invoked in your own copilot using Semantic Kernel SDK, but is in the format to also be invoked by ChatGPT, Bing Chat, M365 copilot, and others. It might make sense to test functionality within M365 or other existing Copilots first [https://aka.ms/AOAI-Hack-build-plugin](https://aka.ms/AOAI-Hack-build-plugin)
 
-- UX and how to expose what your Copilot does/doesn't do? Is it invoked via a chatbot?
+- UX - does user invoke it via a chatbot? text field? ...or a button? Do you pass user natural language input directly, or formulate a prompt based on restrained input? How do you expose what your Copilot does/doesn't do? 
 
 - Safety and guardrails when acting on users' behalf? What if the detected intent based on user prompt is unclear or incorrect or unsupported?
 
