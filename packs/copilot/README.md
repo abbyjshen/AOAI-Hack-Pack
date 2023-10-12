@@ -1,6 +1,11 @@
 # Build your own Copilot
 Reference this page at: [aka.ms/AOAI-Hack-build-copilot](https://aka.ms/AOAI-Hack-build-copilot)
 
+## Check this out 👇
+[This project contains resources and examples to help you as you build your own Co-Pilot applications that use modern AI to assist with complex tasks.
+](https://github.com/rohit-lakhanpal/build-your-own-copilot)
+
+
 ## Considerations
 ### What is a Copilot
 How much of the Copilot stack are you intending to cover in your own Copilot?
