@@ -1,5 +1,9 @@
 In this folder is where we add files and resources around the logistics of planning, preparing, and running a hackathon
 
+- [Preparation](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/preparation.md)
+- [Set up cloud resources](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/preparation.md) if using Azure Pass
+<br></br>
+
 # Checklist
 
 Before you run an innovation hackathon on Generative AI, have you sorted out the following?
