@@ -1,7 +1,10 @@
+# Hack logistics
+Reference this page at: [aka.ms/AOAI-Hack-logistics](https://aka.ms/AOAI-Hack-logistics)
+
 In this folder is where we add files and resources around the logistics of planning, preparing, and running a hackathon
 
-- [Preparation](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/preparation.md)
-- [Set up cloud resources](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/preparation.md) if using Azure Pass
+- [Preparation](https://aka.ms/AOAI-Hack-prep)
+- [Set up cloud resources](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/setup.md) if using Azure Pass
 <br></br>
 
 # Checklist
