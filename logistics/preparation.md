@@ -1,4 +1,4 @@
-# Preparation
+# Preparation (edits in progress)
 Preparation enables you to prepare your Azure Enviornment in time for the Hackathon. The steps to prepare the enviornment are:  
 
 * [Identify the preparation owner](#identify-the-preparation-owner-from-the-partnercustomer) 

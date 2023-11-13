@@ -1,6 +1,9 @@
 # AOAI Hack Pack (Work In Progress)
 Reference this page at: [aka.ms/AOAI-Hack-Pack](https://aka.ms/AOAI-Hack-Pack)
 
+## Planning an innovation hackathon?
+Make sure you've sorted out the [Logistics](https://aka.ms/AOAI-Hack-logistics)⚠️
+
 ## Know what you're building? 
 Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
 
