@@ -1,4 +1,4 @@
-# Preparation
+# Preparation (edits in progress)
 
 1. Identify the Preparation Owner from the Partner/Customer:
     - Determine who the responsible party is on the customer/partner side.
