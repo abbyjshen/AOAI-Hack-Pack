@@ -1,4 +1,8 @@
-# Preparation (edits in progress)
+# Preparation
+
+Reference this page at: [aka.ms/AOAI-Hack-prep](https://aka.ms/AOAI-Hack-prep) <br></br>
+This is step 3 of 5 in [hack logistics](https://aka.ms/AOAI-Hack-logistics) <br></br>
+
 Preparation enables you to prepare your Azure Enviornment in time for the Hackathon. The steps to prepare the enviornment are:  
 
 * [Identify the preparation owner](#identify-the-preparation-owner-from-the-partnercustomer) 
