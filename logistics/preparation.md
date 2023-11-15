@@ -12,7 +12,7 @@ Preparation enables you to prepare your Azure Environment in time for the Hackat
 * [Deploy Models with Tokens Per Minute (TPM) Limits](#deploy-models-with-tokens-per-minute-tpm-limits)
 * [Grant RBAC Roles on the AOAI Service](#grant-rbac-roles-on-the-aoai-service)
 * [Prepare and Assign Data](#prepare-and-assign-data)
-
+* Bonus: [Set up cloud resources](https://github.com/abbyjshen/AOAI-Hack-Pack/blob/main/logistics/setup.md) if using Azure Pass
 
 ### Identify the Preparation Owner from the Partner/Customer:
 - Determine who the responsible party is on the customer/partner side.
