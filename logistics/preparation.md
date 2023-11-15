@@ -1,9 +1,9 @@
-# Preparation
+# 3. Preparation
 
 Reference this page at: [aka.ms/AOAI-Hack-prep](https://aka.ms/AOAI-Hack-prep) <br></br>
 This is step 3 of 5 in [hack logistics](https://aka.ms/AOAI-Hack-logistics) <br></br>
 
-Preparation enables you to prepare your Azure Enviornment in time for the Hackathon. The steps to prepare the enviornment are:  
+Preparation enables you to prepare your Azure Environment in time for the Hackathon. The steps to prepare the environment are:  
 
 * [Identify the preparation owner](#identify-the-preparation-owner-from-the-partnercustomer) 
 * [Define/ Create the Azure Subscription for the hackathon](#definecreate-the-azure-subscriptions-for-the-hackathon)
@@ -98,29 +98,3 @@ Preparation enables you to prepare your Azure Enviornment in time for the Hackat
  - Set up TPM consumption alerts.
  - Configure Diagnostic Logging
 - Prepare and Assign Data
-
-# Capability
-
-1. Create a schedule of learning events including some of these topics, leading up to hackathon start:​
-
-
-    - **[Azure Fundamentals](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)** (Recommended for newcomers to Azure)
-    - **[Azure OpenAI Service L100](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**:
-      - Intended audience: C-level and all roles
-      - Includes [simple prompt demos](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)
-    - **Innovating beyond Chat with [Azure OpenAI Service](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**:
-      - Intended audience: Technical roles
-      - **Note**: Do not use L200/L300 deck; it contains Microsoft Confidential information.
-    - **[Copilots](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md) & [Plugins](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md) with [Semantic Kernel](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**:
-      - Intended audience: Technical roles
-    - **[Azure AI services](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**:
-      - Comprehensive overview of Azure AI services
-      - Intended audience: Technical roles
-1. Self-Paced Learning Plan
-
-    Recommend teams complete the following learning pathways:
-    
-    - **[Azure OpenAI Service](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**
-    - **[Responsible AI](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**
-    - **[Responsible Conversational AI](https://github.com/PlagueHO/AzureOpenAIDemo/blob/main/prompt-examples/README.md)**
-    
