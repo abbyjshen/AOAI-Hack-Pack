@@ -33,12 +33,14 @@ Before you run an innovation hackathon on Generative AI, have you sorted out the
     - [ ] ideate innovatively (not just chat, or chat over organsational data!)?
     - [ ] know how to get started to realise their ideas in code?
 
-- [ ] 3. Preparation //TODO deeplink to relevant sections in [aka.ms/AOAI-Hack-prep#3-preparation](https://aka.ms/AOAI-Hack-prep#3-preparation)
+- [ ] 3. Preparation <br>//TODO deeplink the below to relevant sections in [aka.ms/AOAI-Hack-prep#3-preparation](https://aka.ms/AOAI-Hack-prep#3-preparation)
   - [ ] Access to the AI technology you plan to use
   - [ ] Managed sandboxes or subscriptions for teams to use
     - [ ] without affecting other apps your organisation is running
     - [ ] without affecting other teams
     - [ ] without blowing the budget
+  - [ ] Roles and permissions for hackers (and others) within those sandboxes
+  - [ ] Data that is meaningful for a proof of concept, and safe to use 
 
 - [ ] 4. Coaching
 
