@@ -43,8 +43,15 @@ Before you run an innovation hackathon on Generative AI, have you sorted out the
   - [ ] Data that is meaningful for a proof of concept, and safe to use 
 
 - [ ] 4. Coaching
+  - [ ] What happens if hack teams get stuck on the day?
+  - [ ] Do you have coaches and experts available who can help unblock?
+  - [ ] Will you need to find coaches to be around for the entire time, or have them on-call, or have scheduled office hours?
 
 - [ ] 5. Closing
+  - [ ] What next?
+  - [ ] Will you decide winners and present prizes?
+  - [ ] How will you take these ideas and evaluate for production/roadmap?
+  - [ ] How will you gather and share learnings from the hackathon?
 
 
 
