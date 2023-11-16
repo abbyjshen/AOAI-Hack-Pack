@@ -1,4 +1,4 @@
-# Resource Packs for common use cases (in development)
+# Resource Packs for common use cases (🏗️ in development)
 Reference this page at: [aka.ms/AOAI-Hack-packs](https://aka.ms/AOAI-Hack-packs)
 
 1. [Build a **plugin** to M365 Copilot / Business Chat / Bing Chat / ChatGPT](https://aka.ms/AOAI-Hack-build-plugin)
