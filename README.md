@@ -1,4 +1,4 @@
-# AOAI Hack Pack
+# AOAI Hack Pack (completion state: MVP)
 Reference this page at: [aka.ms/AOAI-Hack-Pack](https://aka.ms/AOAI-Hack-Pack)
 - **[Organisation] Planning an innovation hackathon?** Make sure you've sorted out the [Logistics](https://aka.ms/AOAI-Hack-logistics)⚠️
 - **[Hack team] Know what you want to build?** Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
