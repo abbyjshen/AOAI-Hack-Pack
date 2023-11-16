@@ -17,17 +17,31 @@ In this folder is where we add files and resources around the logistics of plann
 Before you run an innovation hackathon on Generative AI, have you sorted out the following?
 
 - [ ] 1. Purpose
-- [ ] 2. [Capability](https://aka.ms/AOAI-Hack-learn)
-  - [ ] Are your hackers equipped with the knowledge
-    - [ ] to know what the technology is capable of
-    - [ ] to know how to get started to realise their ideas in code
+  - [ ] Why is your business investing time and effort into this? What's the outcome for your business and your people?
+    - [ ] Learning
+    - [ ] Innovate with cutting edge tech
+    - [ ] Coming up with new features
+    - [ ] Accelerate something that hasn't had the time
+  - [ ] Is this building features for your customers, or solving current painpoints in the business to be more efficient internally?
+  - [ ] Do you have wider goals or themes? E.g. sustainability, or theme is to achieve things with primarily generative AI
+
+- [ ] 2. [Capability](https://aka.ms/AOAI-Hack-learn) (assuming generative AI is a core part of your Purpose of the hackathon)
+  - [ ] Does everyone in your organisation (leadership, marketing, product, etc.) have foundational knowledge of AI and can embrace the transformation?
+  - [ ] Are your hackers equipped with the foundational knowledge to
+    - [ ] know the art of the possible?
+    - [ ] know what the technology is and how it works?
+    - [ ] ideate innovatively (not just chat, or chat over organsational data!)?
+    - [ ] know how to get started to realise their ideas in code?
+
 - [ ] 3. Preparation //TODO deeplink to relevant sections in [aka.ms/AOAI-Hack-prep#3-preparation](https://aka.ms/AOAI-Hack-prep#3-preparation)
-  - [ ] Access to the AI technology
+  - [ ] Access to the AI technology you plan to use
   - [ ] Managed sandboxes or subscriptions for teams to use
     - [ ] without affecting other apps your organisation is running
     - [ ] without affecting other teams
     - [ ] without blowing the budget
+
 - [ ] 4. Coaching
+
 - [ ] 5. Closing
 
 
