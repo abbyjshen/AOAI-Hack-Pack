@@ -1,7 +1,7 @@
-# AOAI Hack Pack (Work In Progress)
+# AOAI Hack Pack
 Reference this page at: [aka.ms/AOAI-Hack-Pack](https://aka.ms/AOAI-Hack-Pack)
 - **[Organisation] Planning an innovation hackathon?** Make sure you've sorted out the [Logistics](https://aka.ms/AOAI-Hack-logistics)⚠️
-- **[Hack team] Know what you're building?** Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
+- **[Hack team] Know what you want to build?** Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
 
 ## Who is this pack for?
 This Hack Pack is designed for organisations who are planning to run an **innovation hackthon** with internal teams, or who have 1 or more teams participating in a hackathon event run by someone else. This Hack Pack can also be used as a resource by Service Partners or facilitators who are helping organisations and hack teams get ready for an innovation hackathon.
