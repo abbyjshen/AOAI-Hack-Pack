@@ -39,7 +39,8 @@ Before you run an innovation hackathon on Generative AI, have you sorted out the
     - [ ] without affecting other apps your organisation is running
     - [ ] without affecting other teams
     - [ ] without blowing the budget
-  - [ ] Roles and permissions for hackers (and others) within those sandboxes
+    - [ ] while allowing for a smooth transition into a production offering (per your normal development processes)
+  - [ ] Roles and permissions for hackers (and others) within those subscriptions
   - [ ] Data that is meaningful for a proof of concept, and safe to use 
 
 - [ ] 4. Coaching
