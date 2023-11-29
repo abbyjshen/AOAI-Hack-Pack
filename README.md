@@ -4,7 +4,7 @@ Reference this page at: [aka.ms/AOAI-Hack-Pack](https://aka.ms/AOAI-Hack-Pack)
 - **[Hack team] Know what you want to build?** Go straight to the [Resource Packs](https://aka.ms/AOAI-Hack-packs)🎒
 
 ## Who is this pack for?
-This Hack Pack is designed for organisations who are planning to run an **innovation hackthon** with internal teams, or who have 1 or more teams participating in a hackathon event run by someone else. This Hack Pack can also be used as a resource by Service Partners or facilitators who are helping organisations and hack teams get ready for an innovation hackathon.
+This Hack Pack is designed for organisations who are planning to run an **innovation hackathon** with internal teams, or who have 1 or more teams participating in a hackathon event run by someone else. This Hack Pack can also be used as a resource by Service Partners or facilitators who are helping organisations and hack teams get ready for an innovation hackathon.
 
 ## What is an innovation hackathon?
 Imagine this: Developers (and product, design, and marketing folks) splitting into teams, imagining anything that can be possible using improve features or internal workflows, using a day to a couple weeks hacking that idea into something demonstratable, and finally judging and deciding which teams/projects are winners or have an idea that can be adopted into prod/roadmap. **This is what we mean by innovation hackathons.**
