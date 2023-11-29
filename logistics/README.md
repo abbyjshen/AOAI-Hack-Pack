@@ -54,5 +54,5 @@ Before you run an innovation hackathon on Generative AI, have you sorted out the
   - [ ] How will you take these ideas and evaluate for production/roadmap?
   - [ ] How will you gather and share learnings from the hackathon?
 
-
-
+<br></br>
+Also check out [How To Host A Hack](https://github.com/microsoft/WhatTheHack/blob/master/000-HowToHack/WTH-HowToHostAHack.md)
